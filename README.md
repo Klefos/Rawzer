@@ -103,16 +103,16 @@ This format is ideal for plotting, curve fitting, and comparative analysis.
 
 ---
 
-## **4. Resetting the Plate Layout**
-- If you want to clear all well names and start from scratch, click **Reset**.  
-- All wells will return to their default state.
-
----
-
-## **5. Saving the Plate Layout**
+## **4. Saving the Plate Layout**
 - To save your customized plate for future use, click **Save Plate**.  
 - The software will generate an Excel file named:  
   **Rawzer_Plate_UNIXTIME.xlsx**  
 - This file contains the full layout, including all custom well names.
+
+---
+
+## **5. Resetting the Plate Layout**
+- If you want to clear all well names and start from scratch, click **Reset**.  
+- All wells will return to their default state.
 
 ---
